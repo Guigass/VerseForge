@@ -1,0 +1,144 @@
+[Intro]
+[Piano]
+[Voz feminina]
+Se eu não tiver você
+[Voz masculina]
+Em São Paulo
+
+[Verso 1]
+[Voz masculina]
+Saí da Zona Leste, hoje ando no Centro
+Teto mais alto, o corre continua dentro
+Se eu fiz aqui, eu faço em qualquer canto
+Essa cidade me criou, agora ela me canta
+Já vendi doce no farol, já peguei o último trem
+Paulista de madrugada me devolveu também
+Minhocão na veia, vinte e três no peito
+Doze milhões de histórias, metade sem jeito
+Me vê no Copan, me perde na Augusta
+Terra da garoa, mas o sonho não enferruja
+
+[Pré-refrão]
+[Voz feminina]
+Tem gente que vive de fortuna
+Tem gente que vive de fama
+Tem gente que vive de trono
+Tem gente que só joga o jogo
+Tem gente que acha que o ouro
+Define o que mora no peito
+Eu já estive nesse filme
+Tá vazio, tá feito
+
+[Refrão]
+[Ambos]
+Tem gente que quer ter tudo
+Mas eu não quero nada no mundo
+Se não for você, baby
+Se eu não tiver você, baby
+Tem gente que quer diamante
+Tem gente que quer o instante
+Mas tudo isso não vale nada
+Se eu não tiver você
+
+[Pós-refrão]
+[Ambos]
+Em São Paulo
+Selva de concreto onde o sonho acorda
+Aqui não tem o que você não possa
+Agora você tá em São Paulo
+Essas ruas te fazem nascer de novo
+Luz grande te acende e te cobra
+Vamos ouvir por São Paulo
+São Paulo, São Paulo
+
+[Verso 2]
+[Voz masculina]
+Caldeirão no ponto: Nordeste, Japão, Bolívia
+Liberdade de manhã, baile no fim do dia
+Táxi, lotação, app no sinal
+Forasteiro se perde, o metrô não perdoa o final
+Virada na rua, Ibirapuera no sol
+MASP na cara, bandeira no holofote
+Eu sangro torcida, não importa a camisa
+Essa cidade é missa e é cinza
+Bem-vindo ao pote que ferve sem tampa
+Canto onde o rap cresceu sem mapa
+Longa vida ao corre que não pede licença
+Eu sou do Estado — e o Estado é sentença
+
+[Pré-refrão]
+[Voz feminina]
+Tem gente que busca a fonte
+Promessa de nunca envelhecer
+Me dá o mundo numa bandeja
+Pra que, se não tem com quem?
+Sem alguém pra partir o pão
+Sem alguém que se importe de verdade
+Com você eu tenho a avenida
+Sem você, some a cidade
+
+[Refrão]
+[Ambos]
+Tem gente que quer ter tudo
+Mas eu não quero nada no mundo
+Se não for você, baby
+Se eu não tiver você, baby
+Tem gente que quer diamante
+Tem gente que quer o instante
+Mas tudo isso não vale nada
+Se eu não tiver você
+
+[Pós-refrão]
+[Ambos]
+Em São Paulo
+Selva de concreto onde o sonho acorda
+Aqui não tem o que você não possa
+Agora você tá em São Paulo
+Essas ruas te fazem nascer de novo
+Luz grande te acende e te cobra
+Vamos ouvir por São Paulo
+São Paulo, São Paulo
+
+[Ponte]
+[Voz feminina]
+Uma mão no ar pra cidade grande
+Poste aceso, sonho grande, tudo parece filme
+Não tem lugar no mundo que compare
+Isqueiro no alto, todo mundo diz
+Yeah, yeah
+[Voz masculina]
+Mas nada nesse mundão inteiro
+Vale um segundo
+[Ambos]
+Se eu não tiver você comigo, baby
+
+[Verso 3]
+[Voz masculina]
+Luz cega, gente se perde no brilho
+Chegou de ônibus, ficou no estilo
+Inverno na pele, verão no bolso
+A cidade não dorme, te engole no poço
+Veio pra estudar, formou na noite
+Meia-noite é currículo, madrugada é porte
+Ave Maria pra terra da garoa
+A vida começa quando a missa acabou
+
+[Refrão final]
+[Ambos]
+Tem gente que quer ter tudo
+Mas eu não quero nada no mundo
+Se não for você, baby
+Se eu não tiver você, baby
+Tem gente que quer diamante
+Luz grande, poder, o instante
+Mas tudo isso não vale nada
+Se eu não tiver você
+
+[Outro]
+[Ambos]
+Em São Paulo
+Selva de concreto onde o sonho acorda
+Essas ruas te fazem nascer de novo
+Mas se eu não tiver você
+São Paulo, São Paulo
+Se eu não tiver você comigo, baby

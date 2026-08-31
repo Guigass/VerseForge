@@ -1,0 +1,4 @@
+interface:
+  display_name: "Releitura Musical"
+  short_description: "Releia uma musica com fidelidade ajustavel"
+  default_prompt: "Use $reinterpret-song para criar uma releitura reconhecivel com fidelidade controlada."

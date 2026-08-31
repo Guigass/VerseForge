@@ -1,0 +1,4 @@
+interface:
+  display_name: "Direção Criativa Musical"
+  short_description: "Desenvolva uma ideia musical com orientação"
+  default_prompt: "Use $develop-music-concept para transformar uma ideia vaga em um projeto musical bem definido."

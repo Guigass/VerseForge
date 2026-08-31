@@ -1,0 +1,4 @@
+interface:
+  display_name: "Composicao Original"
+  short_description: "Crie uma letra original pronta para o Suno"
+  default_prompt: "Use $write-original-song para compor uma musica original passo a passo."

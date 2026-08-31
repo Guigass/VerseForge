@@ -1,0 +1,4 @@
+interface:
+  display_name: "VerseForge"
+  short_description: "Crie uma musica comigo passo a passo"
+  default_prompt: "Use $verseforge para conduzir a criacao de uma musica e salvar todo o projeto."

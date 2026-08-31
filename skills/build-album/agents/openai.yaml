@@ -1,0 +1,4 @@
+interface:
+  display_name: "Construtor de Album"
+  short_description: "Crie um album com identidade consistente"
+  default_prompt: "Use $build-album para planejar um album e manter coerencia entre todas as faixas."

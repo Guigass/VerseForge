@@ -1,0 +1,4 @@
+interface:
+  display_name: "Oficina de Letra"
+  short_description: "Revise e fortaleça uma letra existente"
+  default_prompt: "Use $refine-song para diagnosticar e melhorar uma letra sem perder sua identidade."

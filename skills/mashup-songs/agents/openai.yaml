@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mashup Musical"
+  short_description: "Combine duas ou mais musicas com coerencia"
+  default_prompt: "Use $mashup-songs para criar um mashup coeso a partir de duas ou mais letras."
