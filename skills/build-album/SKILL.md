@@ -36,6 +36,18 @@ Registrar uma destas estrategias:
 
 Descrever timbre, entrega, registro, diccao e relacao entre vozes. Nao usar nomes de artistas no estilo do Suno.
 
+Para manter a mesma voz entre faixas no Suno, recomendar:
+
+- salvar como **Persona** a primeira faixa aprovada e reutiliza-la nas proximas;
+- ou usar **Voices** quando o usuario quiser a propria voz;
+- ou, com catalogo proprio de 6+ faixas, um **Custom Model**.
+
+Registrar a escolha em `identity.md`.
+
+## Assinatura sonora reutilizavel
+
+Registrar em `identity.md` um **nucleo de estilo** em ingles (200–400 caracteres) que toda faixa reutiliza no inicio do campo Estilo, seguido do complemento especifico da faixa. Registrar tambem um **excluir-base** do album. Isso garante unidade sonora sem que cada faixa reinvente o prompt.
+
 ## Projetar a tracklist
 
 Dar a cada faixa uma funcao no arco: abertura, convite, tensao, mergulho, respiro, virada, climax ou desfecho. Variar BPM, densidade, perspectiva e estrutura dentro da paleta comum. Evitar duas faixas consecutivas com a mesma funcao emocional, salvo decisao consciente.

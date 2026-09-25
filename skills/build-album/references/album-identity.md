@@ -26,7 +26,10 @@ Preencher `identity.md` com estas secoes:
 - bateria, baixo, instrumentos e texturas recorrentes;
 - assinatura de intro, transicoes e finais;
 - dinamica, espaco, mix e textura;
-- elementos proibidos no arranjo.
+- elementos proibidos no arranjo;
+- nucleo de estilo em ingles (200–400 caracteres) reutilizado no inicio do Estilo de toda faixa;
+- excluir-base do album;
+- controles padrao do album (Weirdness, Style Influence).
 
 ## Identidade vocal
 
@@ -34,7 +37,8 @@ Preencher `identity.md` com estas secoes:
 - timbre, tessitura, diccao e intensidade;
 - papeis narrativos de cada voz;
 - regras para unissono, harmonias e resposta;
-- limites de alternancia entre faixas.
+- limites de alternancia entre faixas;
+- estrategia de consistencia no Suno: Persona, Voices ou Custom Model.
 
 ## Coesao e variedade
 

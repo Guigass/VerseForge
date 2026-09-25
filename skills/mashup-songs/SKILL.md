@@ -9,7 +9,7 @@ Fazer as fontes conversarem. Evitar colagem de trechos sem arco dramatico.
 
 ## Preparar
 
-1. Ler `../verseforge/references/output-contract.md` e `../verseforge/references/project-storage.md`.
+1. Ler `../verseforge/references/output-contract.md`, `../verseforge/references/suno-guide.md` e `../verseforge/references/project-storage.md`.
 2. Receber no minimo duas letras completas do usuario; nao buscar nem reconstruir fontes ausentes.
 3. Perguntar ou propor:
    - porcentagem de contribuicao de cada fonte, totalizando 100;
@@ -33,7 +33,9 @@ Para cada musica, extrair: historia, ponto de vista, imagens, frase/gancho, emoc
 - Dar a cada fonte ao menos um marcador inequivoco quando sua contribuicao for relevante.
 - Criar transicoes semanticas e musicais; nao apenas alternar estrofes.
 - Usar um refrão unificador novo ou cruzar ganchos de modo cantavel.
-- Marcar vozes somente quando isso ajuda a performance.
+- Marcar vozes somente quando isso ajuda a performance, seguindo as regras de dueto de `suno-guide.md`.
+- Unificar a metrica: fontes com metricas diferentes precisam ser reescritas para o mesmo pulso, ou separadas por uma tag de transicao (`[Interlude]`, `[Breakdown: half-time]`).
+- Estilo com um unico genero de chegada; fusoes de dois generos precisam dizer qual domina ("samba-rock with boom-bap drums"), senao o Suno alterna sem controle.
 - Verificar se a participacao percebida acompanha aproximadamente os percentuais do briefing.
 - Remover conflitos de pessoa, tempo, lugar ou tom que nao sejam deliberados.
 

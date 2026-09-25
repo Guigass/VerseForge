@@ -9,6 +9,17 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 
+def read_optional(path: Path) -> str:
+    return path.read_text(encoding="utf-8").strip() if path.exists() else ""
+
+
+def suno_settings(project_text: str) -> str:
+    match = re.search(r"(?ms)^suno:\n((?:[ \t]+.*\n?)+)", project_text)
+    if not match:
+        return ""
+    return "\n".join(line.strip() for line in match.group(1).splitlines() if line.strip())
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("project", type=Path)
@@ -29,6 +40,10 @@ def main() -> int:
     target = versions / f"v{number:03d}.md"
     lyrics = lyrics_path.read_text(encoding="utf-8").strip()
     style = style_path.read_text(encoding="utf-8").strip()
+    exclude = read_optional(args.project / "suno-exclude.txt")
+    metadata = args.project / "project.yaml"
+    project_text = metadata.read_text(encoding="utf-8") if metadata.exists() else ""
+    settings = suno_settings(project_text)
     content = (
         f"# Versao {number:03d}\n\n"
         f"- Data UTC: {datetime.now(timezone.utc).isoformat()}\n"
@@ -38,10 +53,12 @@ def main() -> int:
         f"## LETRA\n\n{lyrics}\n\n"
         f"## ESTILO PARA O SUNO\n\n{style}\n"
     )
+    if exclude:
+        content += f"\n## EXCLUIR\n\n{exclude}\n"
+    if settings:
+        content += f"\n## CONFIGURACOES\n\n```yaml\n{settings}\n```\n"
     target.write_text(content, encoding="utf-8")
-    metadata = args.project / "project.yaml"
     if metadata.exists():
-        project_text = metadata.read_text(encoding="utf-8")
         version_line = f'current_version: "v{number:03d}"'
         if re.search(r"(?m)^current_version:.*$", project_text):
             project_text = re.sub(r"(?m)^current_version:.*$", version_line, project_text)

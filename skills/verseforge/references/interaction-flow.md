@@ -40,7 +40,7 @@ Para dueto, perguntar ou propor os papeis das vozes: narradores, casal, conflito
 
 Perguntar somente se ainda houver ambiguidade relevante:
 
-- referencia sonora descrita por caracteristicas, nunca por artista no campo Styles;
+- referencia sonora descrita por caracteristicas, nunca por artista no campo Estilo; se o usuario citar um artista, traduzir em epoca, instrumentacao, groove, timbre e producao;
 - imagem ou frase que deve ficar na memoria;
 - final emocional;
 - duracao ou estrutura desejada.
@@ -60,7 +60,9 @@ Escrever primeiro pelo arco emocional e pela prosodia. Depois revisar:
 5. contraste entre secoes;
 6. detalhes concretos em vez de abstracoes genericas;
 7. adequacao das vozes;
-8. coerencia com a identidade do album, se houver.
+8. coerencia com a identidade do album, se houver;
+9. formatacao para o Suno: tags em ingles, parenteses so para backing vocals, paridade silabica, final com `[Outro]` e `[End]`;
+10. estilo, excluir e configuracoes coerentes com a letra (energia, densidade e voz).
 
 ## Iteracao
 

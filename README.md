@@ -49,11 +49,23 @@ projects/
     songs/<faixa>/
 ```
 
-Cada musica guarda briefing, letra atual, estilo do Suno, fontes fornecidas e versoes anteriores. Cada album possui um contrato de identidade lido antes da criacao de novas faixas.
+Cada musica guarda briefing, letra atual, estilo e excluir do Suno, configuracoes, fontes fornecidas e versoes anteriores. Cada album possui um contrato de identidade lido antes da criacao de novas faixas.
 
-## Limites garantidos
+## O que cada entrega traz
 
-- Letra: maximo absoluto de 5.000 caracteres.
-- Estilo do Suno: maximo absoluto de 1.000 caracteres.
+- **Titulo**
+- **Letra** com tags de secao em ingles (`[Verse 1]`, `[Chorus: Duet, harmony]`, `[Bridge: stripped]`, `[Outro]`, `[End]`)
+- **Estilo** em ingles, genero principal primeiro, voz e idioma declarados
+- **Excluir**: os desvios mais provaveis da faixa, para o campo Exclude do Suno
+- **Configuracoes**: modelo (v6), Weirdness, Style Influence, Variety e Max Mode
+- **Dicas de geracao** especificas da faixa
 
-O validador em `skills/verseforge/scripts/validate_suno.py` confere os dois limites antes da entrega.
+O guia completo esta em `skills/verseforge/references/suno-guide.md`.
+
+## Validacao
+
+```bash
+py -3 skills/verseforge/scripts/validate_suno.py --project projects/singles/<musica>
+```
+
+Bloqueia letra acima de 5.000 caracteres, estilo acima de 1.000 e titulo acima de 80. Avisa sobre o que costuma piorar a geracao: tags em portugues ou empilhadas, instrucoes entre parenteses, marcadores `(x2)`, numeros em digitos, linhas longas, letra grande demais, ausencia de refrao ou final, estilo em portugues, negativos no estilo e conflito entre estilo e excluir. Use `--strict` para tratar avisos como falha.

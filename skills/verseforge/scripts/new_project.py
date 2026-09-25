@@ -10,6 +10,46 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 
+SUNO_DEFAULTS = [
+    "suno:",
+    '  model: "v6"',
+    "  weirdness: 35",
+    "  style_influence: 70",
+    "  variety: 0",
+    "  max_mode: false",
+]
+
+BRIEF_TEMPLATE = """# {title}
+
+## Intencao
+
+A definir.
+
+## Nucleo
+
+- Premissa em uma frase:
+- Gancho / frase-ima:
+- Imagem central:
+- Transformacao do inicio ao fim:
+
+## Forma
+
+- Modo: original | releitura | mashup | refinamento
+- Genero de chegada:
+- Voz:
+- BPM e energia:
+- Idioma e nivel de linguagem:
+- Estrutura planejada:
+
+## Decisoes assumidas
+
+A definir.
+
+## Revisoes
+
+"""
+
+
 def slugify(value: str) -> str:
     normalized = unicodedata.normalize("NFKD", value)
     ascii_text = normalized.encode("ascii", "ignore").decode("ascii").lower()
@@ -40,10 +80,12 @@ def song_files(folder: Path, title: str, kind: str, album: str = "", track: int 
     ]
     if album:
         metadata.extend([f"album: {yaml_value(album)}", f"track_number: {track}"])
+    metadata.extend(SUNO_DEFAULTS)
     write_new(folder / "project.yaml", "\n".join(metadata) + "\n")
-    write_new(folder / "brief.md", f"# {title}\n\n## Intencao\n\nA definir.\n")
-    write_new(folder / "lyrics.md", "[Rascunho]\n")
-    write_new(folder / "suno-style.txt", "A definir.\n")
+    write_new(folder / "brief.md", BRIEF_TEMPLATE.format(title=title))
+    write_new(folder / "lyrics.md", "")
+    write_new(folder / "suno-style.txt", "")
+    write_new(folder / "suno-exclude.txt", "")
     (folder / "sources").mkdir(parents=True, exist_ok=True)
     (folder / "versions").mkdir(parents=True, exist_ok=True)
 

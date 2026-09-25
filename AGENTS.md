@@ -19,7 +19,9 @@ Quando o usuario trouxer uma ideia vaga, pedir dicas ou quiser desenvolver um co
 ## Qualidade
 
 - Fazer perguntas em rodadas curtas e nao repetir informacoes ja dadas.
-- Validar os limites do Suno por script antes de entregar.
-- Ao compor ou revisar uma musica, sempre entregar `LETRA` e `ESTILO PARA O SUNO`. Em rodadas apenas de direcao criativa, registrar decisoes e terminar com o proximo passo.
+- Seguir `skills/verseforge/references/suno-guide.md` ao escrever letra, estilo, excluir e configuracoes.
+- Validar com `skills/verseforge/scripts/validate_suno.py --project <pasta>` antes de entregar; corrigir erros e resolver ou justificar avisos.
+- Ao compor ou revisar uma musica, sempre entregar `LETRA`, `ESTILO PARA O SUNO`, `EXCLUIR` e `CONFIGURACOES`. Em rodadas apenas de direcao criativa, registrar decisoes e terminar com o proximo passo.
+- Tags de secao em ingles; estilo em ingles e sem negativos; parenteses apenas para backing vocals.
 - Nunca usar nomes de artistas no campo de estilo.
 - Nao buscar ou reconstruir letras comerciais nao fornecidas pelo usuario.
