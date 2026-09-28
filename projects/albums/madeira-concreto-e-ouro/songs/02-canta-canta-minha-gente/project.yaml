@@ -8,3 +8,17 @@ created_at: "2026-08-25T15:34:20.906664+00:00"
 current_version: "v001"
 album: "madeira-concreto-e-ouro"
 track_number: 2
+suno_source:
+  title: "Canta Alto no Concreto"
+  clip_id: "b325789e-1b5b-446b-8418-6a989dade95c"
+  url: "https://suno.com/song/b325789e-1b5b-446b-8418-6a989dade95c"
+  generated_at_display: "25 de agosto de 2026 às 12:55"
+  duration: "3:35"
+  publication: "published"
+  imported_at: "2026-09-28"
+suno:
+  model: "v4.5-all"
+  weirdness: null
+  style_influence: null
+  variety: null
+  max_mode: null

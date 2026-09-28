@@ -1,0 +1,95 @@
+[Intro]
+[Contrabaixo e Rhodes]
+Vocês gostam quando eu canto pros amores do passado,
+mas hoje eu canto baixo pro amor que tá do meu lado.
+Tem rua, tem fumaça, tem noite, tem som profundo,
+mas se eu puder escolher, eu me escondo no teu mundo.
+
+[Verso 1]
+Eu quero me esconder debaixo dessa sua saia,
+fugir do barulho lá fora, deixar a cidade na praia.
+Me embrenhar no emaranhado desses seus cabelos,
+perder a hora, esquecer relógio, rua, medo e desespero.
+Meu coração é vagabundo, bate torto, bate solto,
+vive querendo entender tudo e acaba dando a volta.
+Então transfunde teu sangue nessa minha confusão,
+que eu levo grave no peito e você põe ritmo no coração.
+
+Me traz num dengo, chega perto, sem pressa,
+cafuné resolve coisa que palavra não confessa.
+Me traz num dengo, deixa o mundo pra depois,
+quando a casa fica quieta, sobra espaço pra nós dois.
+
+[Refrão]
+Me deixe te trazer num dengo,
+pra num cafuné fazer os meus apelos.
+Me deixe te trazer num dengo,
+que eu me perco e me encontro nos teus cabelos.
+Se o mundo pesa, eu largo lá fora,
+se a noite chama, eu fico mais um pouco agora.
+Meu coração vagabundo quer moradia,
+vem logo, vem curar essa disritmia.
+
+[Verso 2]
+Eu quero ser exorcizado pela água benta desse olhar infindo,
+que bom ser fotografado pelas retinas desses olhos lindos.
+Nada de pose, nada de flash, só tua vista me enquadrando,
+e o baixo redondo lá no fundo, devagar me desmontando.
+Me deixa hipnotizado, eu aceito a condição,
+porque tem coisa que a cabeça não resolve na razão.
+Posso abrir mil caminhos, desmontar cada detalhe,
+mas quando você me olha assim, qualquer teoria falha.
+
+[Beat corta]
+Vem logo, vem curar seu nego
+que chegou de porre lá da boemia.
+Não de pressa, não de fuga,
+só daquela noite comprida que amanhece em melodia.
+Vem logo, vem curar seu nego,
+traz teu riso e tua calmaria.
+Se meu peito perde o compasso,
+teu cafuné devolve a harmonia.
+
+[Ponte - reggae/jazz]
+Sempre sonhamos com o mais eterno amor,
+mas o eterno às vezes muda de endereço.
+Tem amor que vira abraço, tem amor que vira dor,
+tem amor que deixa marca mesmo quando perde o começo.
+Nos desgastamos, transformando tudo em dor,
+e ainda assim eu digo: alguma coisa valeu.
+Porque até quando termina, o que foi vivo não morreu,
+fica num canto da memória onde ninguém mais mexeu.
+
+[Verso 3]
+Quando a saudade bate forte, ela não pede licença,
+vem com cheiro, vem com som, vem quebrando a resistência.
+A cabeça volta longe, o coração perde o chão,
+naqueles momentos quentes acelerando a pulsação.
+Ex-amor, ex-amor,
+eu queria que tu soubesses o que ficou por aqui.
+Não chorei feito louco, eu até sorri,
+mas no fundo só eu sei das angústias que senti.
+
+E hoje eu canto o presente sem apagar o passado,
+cada amor tem seu fantasma, seu retrato guardado.
+Tem lembrança que não volta, mas também não sai de mim,
+como um disco que termina e deixa o grave até o fim.
+
+[Refrão Final]
+Me deixe te trazer num dengo,
+pra num cafuné fazer os meus apelos.
+Me deixe te trazer num dengo,
+que eu me perco e me encontro nos teus cabelos.
+Eu quero me esconder debaixo dessa sua saia,
+deixar o mundo lá fora enquanto a madrugada ensaia.
+Meu coração vagabundo quer paz e companhia,
+vem logo, vem curar essa disritmia.
+
+[Outro]
+[Vozes ao fundo]
+Ex-amor...
+amor presente...
+coração vagabundo...
+cafuné e boemia.
+Se a cidade não dormir,
+deixa o baixo falar por nós.

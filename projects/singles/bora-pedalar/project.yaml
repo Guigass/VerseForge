@@ -1,0 +1,20 @@
+title: "Bora Pedalar"
+slug: "bora-pedalar"
+kind: "single"
+status: "imported-from-suno"
+voice: "not-recovered"
+created_at: "2026-09-28T12:07:25.971997+00:00"
+current_version: "v001"
+suno:
+  model: "V4.5-ALL"
+  weirdness: null
+  style_influence: null
+  variety: null
+  max_mode: null
+suno_source:
+  clip_id: "26ce8c9b-deaf-42bb-8a1f-37f61dbceeaf"
+  url: "https://suno.com/song/26ce8c9b-deaf-42bb-8a1f-37f61dbceeaf"
+  generated_at_display: "2 de setembro de 2026 às 9:27"
+  duration: "3:27"
+  publication: "published"
+  imported_at: "2026-09-28"

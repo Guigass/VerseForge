@@ -1,0 +1,21 @@
+title: "Trem das Onze"
+slug: "trem-das-onze"
+kind: "single"
+status: "imported-from-suno"
+voice: "documented-in-style"
+created_at: "2026-09-28T12:41:25.021137+00:00"
+current_version: "v001"
+suno_source:
+  title: "Trem das Onze"
+  clip_id: "edd912eb-51ee-4cf2-9aa7-78699053b424"
+  url: "https://suno.com/song/edd912eb-51ee-4cf2-9aa7-78699053b424"
+  generated_at_display: "23 de agosto de 2026 às 11:10"
+  duration: "4:44"
+  publication: "published"
+  imported_at: "2026-09-28"
+suno:
+  model: "v4.5-all"
+  weirdness: null
+  style_influence: null
+  variety: null
+  max_mode: null

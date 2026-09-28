@@ -8,3 +8,17 @@ created_at: "2026-08-25T16:23:56.121808+00:00"
 current_version: "v001"
 album: "madeira-concreto-e-ouro"
 track_number: 4
+suno_source:
+  title: "Ouro de Mina"
+  clip_id: "4b4172ce-bfa5-4f02-961b-158de7b69cbe"
+  url: "https://suno.com/song/4b4172ce-bfa5-4f02-961b-158de7b69cbe"
+  generated_at_display: "25 de agosto de 2026 às 13:40"
+  duration: "3:51"
+  publication: "published"
+  imported_at: "2026-09-28"
+suno:
+  model: "v4.5-all"
+  weirdness: null
+  style_influence: null
+  variety: null
+  max_mode: null

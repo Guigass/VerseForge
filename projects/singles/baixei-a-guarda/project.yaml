@@ -1,0 +1,21 @@
+title: "Baixei a Guarda"
+slug: "baixei-a-guarda"
+kind: "single"
+status: "composed"
+voice: "masculine-baritone-melodic-rap"
+created_at: "2026-09-25T17:18:10.828839+00:00"
+current_version: "v002"
+suno_source:
+  title: "Já Era, Já Era"
+  clip_id: "dfb61990-9c07-48fe-be77-9d6410798733"
+  url: "https://suno.com/song/dfb61990-9c07-48fe-be77-9d6410798733"
+  generated_at_display: "25 de setembro de 2026 às 14:25"
+  duration: "3:28"
+  publication: "published"
+  imported_at: "2026-09-28"
+suno:
+  model: "v6"
+  weirdness: 42
+  style_influence: 80
+  variety: 0
+  max_mode: true

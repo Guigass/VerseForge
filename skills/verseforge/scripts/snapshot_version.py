@@ -14,7 +14,7 @@ def read_optional(path: Path) -> str:
 
 
 def suno_settings(project_text: str) -> str:
-    match = re.search(r"(?ms)^suno:\n((?:[ \t]+.*\n?)+)", project_text)
+    match = re.search(r"(?m)^suno:\r?\n((?:[ \t]+[^\r\n]*(?:\r?\n|$))+)", project_text)
     if not match:
         return ""
     return "\n".join(line.strip() for line in match.group(1).splitlines() if line.strip())

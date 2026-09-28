@@ -1,0 +1,21 @@
+title: "Sem Manual"
+slug: "sem-manual"
+kind: "single"
+status: "imported-from-suno"
+voice: "documented-in-style"
+created_at: "2026-09-28T12:46:29.566029+00:00"
+current_version: "v001"
+suno_source:
+  title: "Sem Manual"
+  clip_id: "97636a54-9d6a-46dd-85b9-570438706608"
+  url: "https://suno.com/song/97636a54-9d6a-46dd-85b9-570438706608"
+  generated_at_display: "21 de agosto de 2026 às 12:56"
+  duration: "4:33"
+  publication: "published"
+  imported_at: "2026-09-28"
+suno:
+  model: "v4.5-all"
+  weirdness: null
+  style_influence: null
+  variety: null
+  max_mode: null

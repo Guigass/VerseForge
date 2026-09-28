@@ -22,6 +22,7 @@ def load_module(name: str):
 
 new_project = load_module("new_project")
 validate_suno = load_module("validate_suno")
+snapshot_version = load_module("snapshot_version")
 
 
 class ProjectCreationTests(unittest.TestCase):
@@ -152,6 +153,19 @@ class SunoLintTests(unittest.TestCase):
             self.assertIn("## EXCLUIR", snapshot)
             self.assertIn("style_influence: 70", snapshot)
             self.assertIn('current_version: "v001"', (folder / "project.yaml").read_text(encoding="utf-8"))
+
+    def test_snapshot_settings_stop_at_next_top_level_key(self):
+        project_text = (
+            'suno:\n'
+            '  model: "V4.5-ALL"\n'
+            '  weirdness: null\n'
+            'suno_source:\n'
+            '  clip_id: "abc123"\n'
+        )
+        settings = snapshot_version.suno_settings(project_text)
+        self.assertIn('model: "V4.5-ALL"', settings)
+        self.assertNotIn("suno_source", settings)
+        self.assertNotIn("clip_id", settings)
 
 
 class SkillRoutingTests(unittest.TestCase):

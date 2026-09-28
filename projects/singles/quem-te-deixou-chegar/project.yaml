@@ -1,0 +1,21 @@
+title: "Quem Te Deixou Chegar"
+slug: "quem-te-deixou-chegar"
+kind: "single"
+status: "imported-from-suno"
+voice: "documented-in-style"
+created_at: "2026-09-28T12:34:34.350524+00:00"
+current_version: "v001"
+suno_source:
+  title: "Quem Te Deixou Chegar"
+  clip_id: "f3bc16c7-50e5-447f-b713-ea618699e404"
+  url: "https://suno.com/song/f3bc16c7-50e5-447f-b713-ea618699e404"
+  generated_at_display: "24 de agosto de 2026 às 14:28"
+  duration: "5:30"
+  publication: "published"
+  imported_at: "2026-09-28"
+suno:
+  model: "v4.5-all"
+  weirdness: null
+  style_influence: null
+  variety: null
+  max_mode: null

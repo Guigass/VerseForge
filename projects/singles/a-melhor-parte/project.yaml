@@ -1,0 +1,21 @@
+title: "A Melhor Parte"
+slug: "a-melhor-parte"
+kind: "single"
+status: "imported-from-suno"
+voice: "documented-in-style"
+created_at: "2026-09-28T12:34:35.322048+00:00"
+current_version: "v001"
+suno_source:
+  title: "A Melhor Parte"
+  clip_id: "f78e993d-14b1-4b84-ae56-919c882eb666"
+  url: "https://suno.com/song/f78e993d-14b1-4b84-ae56-919c882eb666"
+  generated_at_display: "24 de agosto de 2026 às 14:15"
+  duration: "5:34"
+  publication: "published"
+  imported_at: "2026-09-28"
+suno:
+  model: "v4.5-all"
+  weirdness: null
+  style_influence: null
+  variety: null
+  max_mode: null

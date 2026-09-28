@@ -1,0 +1,21 @@
+title: "Perco o Controle"
+slug: "perco-o-controle"
+kind: "single"
+status: "composed"
+voice: "duet-male-rap-female-soul"
+created_at: "2026-09-25T16:51:14.858239+00:00"
+current_version: "v001"
+suno_source:
+  title: "Eu Perco o Controle"
+  clip_id: "6f8a02ab-cce1-460e-acf9-ee905714a06c"
+  url: "https://suno.com/song/6f8a02ab-cce1-460e-acf9-ee905714a06c"
+  generated_at_display: "25 de setembro de 2026 às 13:57"
+  duration: "2:58"
+  publication: "published"
+  imported_at: "2026-09-28"
+suno:
+  model: "v6"
+  weirdness: 38
+  style_influence: 78
+  variety: 0
+  max_mode: false

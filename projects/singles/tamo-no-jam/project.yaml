@@ -5,3 +5,17 @@ status: "draft"
 voice: "masculina"
 created_at: "2026-09-02T18:29:53.336606+00:00"
 current_version: "v003"
+suno_source:
+  title: "Tamo no Som"
+  clip_id: "be61a4f4-7063-4391-8b5f-2559899437ee"
+  url: "https://suno.com/song/be61a4f4-7063-4391-8b5f-2559899437ee"
+  generated_at_display: "2 de setembro de 2026 às 15:43"
+  duration: "3:59"
+  publication: "published"
+  imported_at: "2026-09-28"
+suno:
+  model: "v4.5-all"
+  weirdness: null
+  style_influence: null
+  variety: null
+  max_mode: null

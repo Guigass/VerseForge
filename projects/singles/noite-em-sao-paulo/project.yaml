@@ -1,0 +1,21 @@
+title: "Noite em São Paulo"
+slug: "noite-em-sao-paulo"
+kind: "single"
+status: "imported-from-suno"
+voice: "documented-in-style"
+created_at: "2026-09-28T12:46:27.876337+00:00"
+current_version: "v001"
+suno_source:
+  title: "Noite em São Paulo"
+  clip_id: "172924f2-05af-4410-b009-80dfa452315a"
+  url: "https://suno.com/song/172924f2-05af-4410-b009-80dfa452315a"
+  generated_at_display: "21 de agosto de 2026 às 13:29"
+  duration: "3:37"
+  publication: "published"
+  imported_at: "2026-09-28"
+suno:
+  model: "v4.5-all"
+  weirdness: null
+  style_influence: null
+  variety: null
+  max_mode: null

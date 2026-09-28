@@ -1,0 +1,149 @@
+# La Belle de Jour — Domingo Azul
+
+[Intro — vozes ao fundo]
+
+Ah hei… ah hei… ah hei…
+Ah ah… La Belle de Jour…
+Ah hei… ah hei…
+
+[Baixo entra]
+
+Eu lembro da moça bonita
+da praia de Boa Viagem,
+sol descendo devagar,
+vento leve na paisagem.
+No meio daquela tarde,
+num domingo todo azul,
+o mundo parou um instante
+quando ela passou pelo sul.
+
+[Verso 1]
+
+Era areia, era mar, era sombra no chão,
+era o tempo sem pressa, sem explicação.
+Eu olhando de longe, guardando a visão,
+ela andando tranquila, roubando atenção.
+
+Azul era Belle de Jour,
+era a bela da tarde,
+sem fazer esforço algum
+pra ser parte da cidade.
+
+E eu, cabeça inquieta, tentando entender
+como um simples domingo faz tudo prender.
+Tem coisa que a gente desmonta pra ver,
+mas tem coisa bonita que é melhor só viver.
+
+Seus olhos azuis como a tarde,
+a tarde refletindo no olhar,
+Boa Viagem atrás dela,
+e eu sem saber onde olhar.
+
+[Refrão]
+
+La Belle de Jour…
+Belle de Jour…
+Oh, oh… Belle de Jour…
+
+Eu lembro da moça bonita
+da praia de Boa Viagem,
+a moça no meio da tarde,
+feito cena de outra viagem.
+
+Azul era Belle de Jour,
+era a bela da tarde,
+seus olhos azuis como a tarde
+na tarde de um domingo azul.
+
+La Belle de Jour…
+
+[Verso 2]
+
+E a cidade seguia, mas ela não,
+ficou presa pra sempre naquela visão.
+Um retrato sem foto, guardado na mão,
+uma lembrança batendo no grave do som.
+
+Talvez fosse o jeito, talvez fosse o mar,
+talvez fosse o azul querendo ficar.
+Talvez certas histórias não peçam final,
+só um verso, um domingo, um detalhe banal.
+
+Era a moça mais linda
+de toda a cidade,
+e foi justamente pra ela
+que nasceu minha vontade
+
+de pegar sentimento e deixar ele em blues,
+poucas notas, poucas luzes,
+um sorriso que aparece
+e depois desaparece.
+
+Escrevi meu primeiro blues,
+mas hoje o bumbo vem fundo,
+o baixo balança a sala
+e aquela tarde volta ao mundo.
+
+[Beat corta]
+
+Mas Belle de Jour…
+no azul viajava…
+
+[Vozes ao fundo]
+
+Azul… azul…
+
+[Verso 3]
+
+Se fosse hoje, talvez fosse igual:
+fim de tarde, janela, conversa casual,
+um rolê sem destino, uma noite normal,
+e de repente alguém muda o clima geral.
+
+Não precisa promessa, nem pose, nem plano,
+tem encontro que dura só por alguns anos
+na cabeça da gente — estranho engano —
+um segundo pequeno ficando gigante.
+
+E eu gosto dessas coisas difíceis de explicar,
+uma música certa, um jeito de olhar,
+a casa em silêncio depois de voltar,
+e um grave bem fundo fazendo o chão respirar.
+
+Mas volto pra praia, porque é lá que ela está,
+na memória daquele que insiste em lembrar.
+Boa Viagem, domingo, céu aberto no ar,
+Belle de Jour caminhando sem nunca passar.
+
+[Ponte]
+
+Ah hei… ah hei… ah hei…
+Ah ah… La Belle de Jour…
+
+Era a bela da tarde…
+era azul…
+era mar…
+era domingo…
+
+E seus olhos azuis como a tarde
+faziam a própria tarde parar.
+
+[Refrão Final]
+
+Eu lembro da moça bonita
+da praia de Boa Viagem,
+e a moça no meio da tarde
+de um domingo azul na paisagem.
+
+Azul era Belle de Jour,
+era a bela da tarde,
+seus olhos azuis como a tarde
+na tarde de um domingo azul.
+
+La Belle de Jour…
+Belle de Jour…
+Oh, oh… Belle de Jour…
+
+Era a moça mais linda
+de toda a cidade,
+e foi justamente pra ela

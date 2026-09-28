@@ -1,0 +1,21 @@
+title: "São Paulo Acorda Antes do Sol"
+slug: "sao-paulo-acorda-antes-do-sol"
+kind: "single"
+status: "imported-from-suno"
+voice: "documented-in-style"
+created_at: "2026-09-28T12:46:27.442821+00:00"
+current_version: "v001"
+suno_source:
+  title: "São Paulo Acorda Antes do Sol"
+  clip_id: "d9ee970a-0fc6-4834-9c54-95be3db2ccb8"
+  url: "https://suno.com/song/d9ee970a-0fc6-4834-9c54-95be3db2ccb8"
+  generated_at_display: "21 de agosto de 2026 às 13:29"
+  duration: "3:18"
+  publication: "published"
+  imported_at: "2026-09-28"
+suno:
+  model: "v4.5-all"
+  weirdness: null
+  style_influence: null
+  variety: null
+  max_mode: null

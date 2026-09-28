@@ -1,0 +1,21 @@
+title: "Mensagem no Ar"
+slug: "mensagem-no-ar"
+kind: "single"
+status: "composed"
+voice: "masculine-baritone-melodic-rap"
+created_at: "2026-09-25T17:12:48.864896+00:00"
+current_version: "v002"
+suno_source:
+  title: "Mensagem de Amor"
+  clip_id: "2eb95198-f34e-4e20-a56b-4e66b0ce1ea8"
+  url: "https://suno.com/song/2eb95198-f34e-4e20-a56b-4e66b0ce1ea8"
+  generated_at_display: "25 de setembro de 2026 às 14:16"
+  duration: "3:16"
+  publication: "published"
+  imported_at: "2026-09-28"
+suno:
+  model: "v6"
+  weirdness: 38
+  style_influence: 78
+  variety: 0
+  max_mode: true

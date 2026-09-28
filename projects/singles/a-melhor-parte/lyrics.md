@@ -1,0 +1,150 @@
+[Intro]
+[Rhodes suave, vinil, baixo entrando devagar]
+Você nem sabe, amor...
+quando me abraça desse jeito,
+quando o beijo vem sem pressa,
+parece que o mundo acerta.
+
+E se dependesse de mim,
+você nunca esqueceria
+o lugar que ocupa aqui.
+
+[Verso 1]
+Você é o café quando o dia ainda nem começou,
+o primeiro raio entrando onde a cortina fechou.
+É Sol aparecendo quando a chuva cai pesada,
+é aquela paz pequena que não precisa dizer nada.
+
+Eu tenho a mente inquieta, querendo entender demais,
+mas contigo algumas coisas eu só deixo acontecer em paz.
+Sem desmontar o momento, sem procurar explicação,
+porque teu abraço responde antes da minha pergunta então.
+
+Pode chegar por inteiro, não precisa se esconder,
+eu não quero uma metade quando posso ter você.
+Eu só quero olhar de perto, confirmar o que eu já sei:
+entre tanta coisa bonita, foi teu jeito que eu guardei.
+
+[Refrão]
+Eu só quero ver
+o quanto você é bonita,
+você sabe que eu vejo,
+mesmo quando não acredita.
+
+Eu sei que você é estrela,
+onde você for, eu vou.
+Não importa a distância,
+meu caminho te encontrou.
+
+Se essa vida é um filme
+e a cidade é o cenário,
+você é aquela cena
+que eu revejo no horário.
+
+Você é a melhor parte,
+a melhor parte...
+de tudo isso aqui.
+
+[Verso 2]
+É o nascer do Sol entrando devagar no quarto,
+teus olhos ainda sonolentos me desmontando de fato.
+A casa em silêncio, o mundo esperando lá fora,
+e eu querendo congelar mais cinco minutos nessa hora.
+
+Quando a gente acorda perto, sem pressa pra levantar,
+tem coisa que é tão simples que dá medo de explicar.
+Um beijo vira outro beijo, o resto perde importância,
+e por alguns instantes não existe mais distância.
+
+Você é água no deserto quando o peito pede calma,
+é remédio pra cabeça e um descanso pra minha alma.
+É luz atravessando o vidro numa tarde meio cinza,
+é grave bom no fundo enquanto a noite se organiza.
+
+[Pré-Refrão]
+E eu só quero ver...
+Só quero ver você.
+
+Sem filtro, sem pose,
+sem ter que provar nada.
+Só você do meu lado
+e a vida desacelerada.
+
+[Refrão]
+Eu só quero ver
+o quanto você é bonita,
+você sabe que eu vejo,
+mesmo quando não acredita.
+
+Eu sei que você é estrela,
+onde você for, eu vou.
+Não importa a distância,
+meu caminho te encontrou.
+
+Se essa vida é um filme,
+você é a melhor parte.
+A cena que fica
+quando todo o resto parte.
+
+Melhor parte...
+você é a melhor parte.
+
+[Ponte]
+[Beat corta, piano e vozes ao fundo]
+Se você me ama,
+fala alguma coisa.
+Nem precisa ser bonito,
+nem precisa ter resposta.
+
+Se você me ama,
+chega mais perto de mim.
+Às vezes três palavras
+já resolvem tudo assim.
+
+Se você me ama,
+não guarda só pra você.
+Eu sei pelo teu abraço...
+mas gosto de ouvir você dizer.
+
+[Verso 3]
+Eu não preciso de muito, isso eu aprendi contigo,
+uma noite, nossa casa, alguma música e abrigo.
+Talvez rir de alguma coisa que ninguém mais entendeu,
+e perceber no teu rosto que teu mundo encontrou o meu.
+
+Se amanhã chover, beleza, deixa a água bater,
+você ainda é meu Sol quando eu acordo e vejo você.
+Se a estrada for comprida, eu não conto a distância,
+tem presença que transforma qualquer canto em importância.
+
+[Refrão Final]
+Eu só quero ver
+o quanto você é bonita.
+Você sabe que eu vejo,
+cada detalhe, cada pista.
+
+Eu sei que você é estrela,
+onde você for, eu vou.
+Se essa vida é um filme,
+meu papel já se encontrou.
+
+Porque entre começo e fim,
+entre o riso e a saudade,
+você é a melhor parte,
+minha melhor parte.
+
+[Vozes ao fundo]
+Melhor parte...
+melhor parte...
+
+[Outro]
+Você é o café da manhã,
+o Sol quando a chuva cai,
+a água quando falta tudo,
+a cena que nunca sai.
+
+Se você me ama...
+diz alguma coisa.
+
+Eu já sei.
+Mas diz.

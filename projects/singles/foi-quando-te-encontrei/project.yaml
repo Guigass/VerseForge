@@ -1,0 +1,21 @@
+title: "Foi Quando Te Encontrei"
+slug: "foi-quando-te-encontrei"
+kind: "single"
+status: "imported-from-suno"
+voice: "documented-in-style"
+created_at: "2026-09-28T12:34:34.830664+00:00"
+current_version: "v001"
+suno_source:
+  title: "Foi Quando Te Encontrei"
+  clip_id: "c9316c5c-7c1c-4714-be0f-c2c470d433b0"
+  url: "https://suno.com/song/c9316c5c-7c1c-4714-be0f-c2c470d433b0"
+  generated_at_display: "24 de agosto de 2026 às 14:19"
+  duration: "4:39"
+  publication: "published"
+  imported_at: "2026-09-28"
+suno:
+  model: "v4.5-all"
+  weirdness: null
+  style_influence: null
+  variety: null
+  max_mode: null

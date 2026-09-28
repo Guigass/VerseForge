@@ -8,3 +8,17 @@ created_at: "2026-08-25T15:59:37.950788+00:00"
 current_version: "v001"
 album: "madeira-concreto-e-ouro"
 track_number: 3
+suno_source:
+  title: "Avesso do Cartão-Postal"
+  clip_id: "97b09209-043a-4d40-9ee4-d86755962449"
+  url: "https://suno.com/song/97b09209-043a-4d40-9ee4-d86755962449"
+  generated_at_display: "25 de agosto de 2026 às 13:22"
+  duration: "4:25"
+  publication: "published"
+  imported_at: "2026-09-28"
+suno:
+  model: "v4.5-all"
+  weirdness: null
+  style_influence: null
+  variety: null
+  max_mode: null
