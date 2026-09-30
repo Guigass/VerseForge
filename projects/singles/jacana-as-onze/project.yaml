@@ -1,0 +1,13 @@
+title: "Jaçanã às Onze"
+slug: "jacana-as-onze"
+kind: "single"
+status: "composed"
+voice: "male baritone rap with group chant"
+created_at: "2026-09-30T15:57:57.986820+00:00"
+current_version: "v001"
+suno:
+  model: "v6"
+  weirdness: 40
+  style_influence: 80
+  variety: 0
+  max_mode: false
