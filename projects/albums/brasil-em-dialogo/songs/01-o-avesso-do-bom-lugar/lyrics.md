@@ -1,0 +1,104 @@
+[Intro: Female Vocal, intimate]
+
+Meu coração perdeu o mapa
+Na dobra da avenida e do olhar
+A pedra escreveu na fumaça
+Uma cidade por decifrar
+
+[Verse 1: Female Vocal]
+
+Cheguei sonhando outra cidade
+E estranhei o que encontrei
+Procurei meu rosto nas vitrines
+Só vi o medo que inventei
+O concreto rimava nas esquinas
+A garoa aprendia a disfarçar
+Cada rosto negado no espelho
+Me ensinava um jeito de enxergar
+
+[Pre-Chorus: Female Vocal, rising]
+
+A riqueza levanta seus muros
+E derruba o que devia guardar
+Mas da fila, da vila, da fábrica
+Nasce um canto que não vão calar
+
+[Chorus: Duet, harmony]
+
+Vira o avesso da cidade
+Deixa a verdade respirar
+Nenhum chão já nasce abrigo
+Um bom lugar se faz no andar
+Sob a garoa, ergue a voz
+Pra nossa história não apagar
+
+[Verse 2: Male Rap, laid-back]
+
+Do lado sul, o dia cobra cedo
+A gente divide o pão e o medo
+Respeito é ponte, palavra é ferramenta
+Humildade é base que sustenta
+Tem sirene cortando a madrugada
+Tem mãe sem sono, porta arrombada
+Se o concreto pesa sobre a gente
+O verso abre espaço no presente
+
+[Verse 3: Female Vocal]
+
+Vi fumaça escondendo estrelas
+Vi beleza comprada e vendida
+Vi poetas brotando dos becos
+Dando nome de novo à ferida
+Há florestas atrás das oficinas
+Há quilombos querendo nascer
+Quem chegou julgando o desconhecido
+Hoje aprende com quem faz viver
+
+[Chorus: Duet, harmony]
+
+Vira o avesso da cidade
+Deixa a verdade respirar
+Nenhum chão já nasce abrigo
+Um bom lugar se faz no andar
+Sob a garoa, ergue a voz
+Pra nossa história não apagar
+
+[Bridge: call and response]
+
+[Female Vocal] Primeiro estranhei teu rosto
+[Male Vocal] Depois virei parte do chão
+[Female Vocal] Vi ouro erguendo paredes
+[Male Vocal] Vi fome atrás do portão
+[Female Vocal] Quem chega aprende o caminho
+[Male Vocal] Quem nasce ensina a voltar
+[Duet] O avesso aprende a ser casa
+[Duet] Quando ninguém solta a mão
+
+[Verse 4: Male Rap, firmer]
+
+Grafite assina o direito no muro
+O break gira apontando o futuro
+A rua não pede favor pra existir
+Une os irmãos pra ninguém dividir
+Não quero o ódio fazendo morada
+Nem mais um nome perdido na estrada
+Com fé, protesto e memória na voz
+O bom lugar é construído por nós
+
+[Chorus: Duet, full band]
+
+Vira o avesso da cidade
+Deixa a verdade respirar
+Nenhum chão já nasce abrigo
+Um bom lugar se faz no andar
+Sob a garoa, ergue a voz
+Pra nossa história não apagar
+
+[Outro: Duet, softer]
+
+Não era espelho, era encontro
+Não era fim, era começar
+Entre a garoa e os tambores
+Meu coração achou lugar
+
+[End]

@@ -1,0 +1,13 @@
+title: "Na Nossa Casa"
+slug: "na-nossa-casa"
+kind: "single"
+status: "composed"
+voice: "duet-male-baritone-female-alto"
+created_at: "2026-09-28T13:38:32.321610+00:00"
+current_version: "v001"
+suno:
+  model: "v6"
+  weirdness: 34
+  style_influence: 78
+  variety: 0
+  max_mode: false

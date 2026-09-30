@@ -1,0 +1,15 @@
+title: "Quando o Céu Rachar"
+slug: "03-quando-o-ceu-rachar"
+kind: "album-track"
+status: "ready"
+voice: "male-baritone-rap-lead-with-female-alto-ancestral-chant"
+created_at: "2026-09-28T18:25:15.258427+00:00"
+current_version: "v001"
+album: "dois-planetas"
+track_number: 3
+suno:
+  model: "v6"
+  weirdness: 44
+  style_influence: 85
+  variety: 0
+  max_mode: false

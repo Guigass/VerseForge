@@ -1,0 +1,13 @@
+title: "Cálice de Concreto"
+slug: "calice-de-concreto"
+kind: "single"
+status: "ready"
+voice: "male baritone rap with group chant"
+created_at: "2026-09-28T15:21:35.939314+00:00"
+current_version: "v001"
+suno:
+  model: "v6"
+  weirdness: 40
+  style_influence: 80
+  variety: 0
+  max_mode: false

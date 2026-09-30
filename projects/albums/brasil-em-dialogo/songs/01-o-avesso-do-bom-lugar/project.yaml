@@ -1,0 +1,15 @@
+title: "O Avesso do Bom Lugar"
+slug: "01-o-avesso-do-bom-lugar"
+kind: "album-track"
+status: "ready"
+voice: "recurring-duet"
+created_at: "2026-09-29T17:51:32.083810+00:00"
+current_version: "v001"
+album: "brasil-em-dialogo"
+track_number: 1
+suno:
+  model: "v6"
+  weirdness: 40
+  style_influence: 80
+  variety: 0
+  max_mode: false

@@ -1,0 +1,15 @@
+title: "Dona da Taverna"
+slug: "02-dona-da-taverna"
+kind: "album-track"
+status: "ready"
+voice: "male-baritone-rap-lead-with-female-alto-hook"
+created_at: "2026-09-28T18:06:17.407919+00:00"
+current_version: "v001"
+album: "dois-planetas"
+track_number: 2
+suno:
+  model: "v6"
+  weirdness: 44
+  style_influence: 83
+  variety: 0
+  max_mode: false

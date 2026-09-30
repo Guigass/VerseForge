@@ -1,0 +1,13 @@
+title: "Se a Fumaça Subir"
+slug: "churrasco-na-sacada"
+kind: "single"
+status: "composed"
+voice: "male-baritone-with-group-chorus"
+created_at: "2026-09-28T13:53:13.121218+00:00"
+current_version: "v003"
+suno:
+  model: "v6"
+  weirdness: 22
+  style_influence: 86
+  variety: 0
+  max_mode: false

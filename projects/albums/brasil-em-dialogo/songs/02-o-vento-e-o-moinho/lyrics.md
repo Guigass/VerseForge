@@ -1,0 +1,106 @@
+[Intro: Female Vocal, intimate]
+
+Ainda é cedo pra partir
+Sem conhecer a direção
+A rua cobra em cada esquina
+Um pedaço da ilusão
+
+[Verse 1: Male Rap, reflective]
+
+Parei pra escrever o que não cabe no peito
+Entre a casa e o trabalho, sigo do mesmo jeito
+A rotina faz barulho, mas eu ouço aquela voz
+Dos meus pais lembrando: dignidade é por nós
+Vim de vielas estreitas, horizonte apertado
+Onde o sonho é riqueza que ninguém deixa guardado
+Se a necessidade ensina a dividir nosso pão
+Cada queda vira letra, cada letra, direção
+
+[Pre-Chorus: Female Vocal, rising]
+
+Presta atenção no caminho
+Nem todo brilho quer teu bem
+O mundo gira suas pedras
+Mas tua memória gira também
+
+[Chorus: Duet, close harmony]
+
+Se o mundo é um moinho
+Meu pensamento é vento
+Pode moer minhas ilusões
+Não leva o que eu guardo dentro
+Do pó eu refaço o caminho
+Com memória e movimento
+
+[Verse 2: Female Vocal]
+
+Eu sei que estás resolvido
+E queres logo atravessar
+Mas cada amor deixa um risco
+E cada escolha deixa um lugar
+Não deixa o cinismo de herança
+Nem cava o próprio chão
+Quem escuta antes do abismo
+Pode mudar de direção
+
+[Verse 3: Male Rap, grounded]
+
+Viajo no passado pra aprender com a lembrança
+Vi tristeza, vi vitória, vi nascer uma criança
+Minha mãe virou espelho sem mandar eu ser igual
+Meu filho abriu futuro num primeiro sinal
+Já chorei felicidade, já provei decepção
+Mas nenhuma porta torta decidiu minha missão
+Quem me olhou atravessado não parou meu caminhar
+Tudo tem o seu momento, eu escolhi continuar
+
+[Chorus: Duet, close harmony]
+
+Se o mundo é um moinho
+Meu pensamento é vento
+Pode moer minhas ilusões
+Não leva o que eu guardo dentro
+Do pó eu refaço o caminho
+Com memória e movimento
+
+[Bridge: call and response]
+
+[Female Vocal] Se a pedra gira, escuta
+[Male Vocal] O vento muda a direção
+[Female Vocal] Se o sonho vira poeira
+[Male Vocal] Eu faço estrada com a mão
+[Female Vocal] Se a vida deixa marcas
+[Male Vocal] Eu deixo amor na sucessão
+[Duet] O que se aprende na queda
+[Duet] Não cabe em nenhum cifrão
+
+[Verse 4: Male Rap, firmer]
+
+Uma senhora cruza a rua apoiada em outro braço
+Um avô conta os domingos pelo eco do espaço
+Um menino sobre rodas vence a inclinação
+Outro encosta no muro, carregando exaustão
+Tudo volta diferente, feito vento no quintal
+Ódio e amor moram perto, cada escolha deixa um sinal
+É difícil ouvir o erro e tentar reconstruir
+Mas perdoar não é esquecer, é não deixar o mal seguir
+
+[Chorus: Duet, full band]
+
+Se o mundo é um moinho
+Meu pensamento é vento
+Pode moer minhas ilusões
+Não leva o que eu guardo dentro
+Do pó eu refaço o caminho
+Com memória e movimento
+
+[Outro: Female Vocal and Male Rap, softer]
+
+[Female Vocal] Ainda é cedo, olha o caminho
+[Male Vocal] Ainda há tempo de aprender
+[Female Vocal] O mundo gira seu moinho
+[Male Vocal] E o pensamento faz viver
+[Duet] Do pó levantamos futuro
+[Duet] Pra quem depois de nós vier
+
+[End]

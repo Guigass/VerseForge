@@ -1,0 +1,15 @@
+title: "No Meio do Universo"
+slug: "01-no-meio-do-universo"
+kind: "album-track"
+status: "ready"
+voice: "male-baritone-rap-lead-with-female-alto-hook"
+created_at: "2026-09-28T17:37:55.260710+00:00"
+current_version: "v002"
+album: "dois-planetas"
+track_number: 1
+suno:
+  model: "v6"
+  weirdness: 42
+  style_influence: 84
+  variety: 0
+  max_mode: false
