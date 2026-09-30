@@ -1,10 +1,18 @@
 title: "Cálice de Concreto"
 slug: "calice-de-concreto"
 kind: "single"
-status: "ready"
+status: "composed"
 voice: "male baritone rap with group chant"
 created_at: "2026-09-28T15:21:35.939314+00:00"
-current_version: "v001"
+current_version: "v002"
+suno_source:
+  title: "Tira de Mim Esse Cálice"
+  clip_id: "b2fd2cc1-8aea-46db-aaa4-7263df682a17"
+  url: "https://suno.com/song/b2fd2cc1-8aea-46db-aaa4-7263df682a17"
+  duration: "3:26"
+  publication: "published"
+  imported_at: "2026-09-30"
+  workspace: "Singles — VerseForge"
 suno:
   model: "v6"
   weirdness: 40

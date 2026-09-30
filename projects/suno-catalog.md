@@ -1,8 +1,8 @@
 # Catálogo do Suno
 
-Inventário lido da biblioteca pública de Guilherme Gentile no Suno em 28 de setembro de 2026.
+Inventário lido da biblioteca pública de Guilherme Gentile no Suno em 28 de setembro de 2026. A faixa 29 foi acrescentada em 30 de setembro de 2026.
 
-- Total consolidado: 28 músicas publicadas.
+- Total consolidado: 29 músicas publicadas.
 - Escopo: músicas publicadas; stems e gerações marcadas como disliked ficaram fora.
 - Chave de identidade: o ID do clip do Suno, não apenas o título.
 - Controles numéricos antigos (Weirdness, Style Influence, Variety e Max Mode) não aparecem na ficha pública e não devem ser inventados.
@@ -38,10 +38,12 @@ Inventário lido da biblioteca pública de Guilherme Gentile no Suno em 28 de se
 | 26 | Sem Manual | 4:33 | V4.5-ALL | [97636a54](https://suno.com/song/97636a54-9d6a-46dd-85b9-570438706608) | `singles/sem-manual` | Importada em v001 |
 | 27 | Depois que a Cidade Dorme | 5:57 | V4.5-ALL | [22ff0674](https://suno.com/song/22ff0674-99cf-4c6f-9193-647032c9f96d) | `singles/depois-que-a-cidade-dorme` | Importada em v001 |
 | 28 | Neon e Fumaça | 4:59 | V4.5-ALL | [c8816d25](https://suno.com/song/c8816d25-134b-4c02-a6f9-60e67b6c8aaa) | `singles/neon-e-fumaca` | Importada em v001 |
+| 29 | Tira de Mim Esse Cálice | 3:26 | V6 | [b2fd2cc1](https://suno.com/song/b2fd2cc1-8aea-46db-aaa4-7263df682a17) | `singles/calice-de-concreto` | Confirmada pela letra do verso e do refrão; estilo sincronizado em v002 |
 
 ## Estado final
 
-- 28 de 28 clips documentados com ID único, URL, data exibida, duração e modelo.
+- 29 de 29 clips documentados com ID único, URL, duração e modelo. A faixa 29 não tem horário exibido na ficha; a data de importação é 2026-09-30.
+- Tira de Mim Esse Cálice é o mesmo projeto de Cálice de Concreto; título do repositório mantido.
 - Letras e estilos preservados como publicados no Suno.
 - 17 singles novos receberam snapshot imutável `v001`.
 - Correspondências com projetos existentes foram confirmadas pela letra; três estilos divergentes foram sincronizados em novas versões.

@@ -1,0 +1,13 @@
+title: "Cartão em Branco"
+slug: "cartao-em-branco"
+kind: "single"
+status: "ready"
+voice: "male baritone rap with group chant"
+created_at: "2026-09-30T14:43:05.969457+00:00"
+current_version: "v001"
+suno:
+  model: "v6"
+  weirdness: 40
+  style_influence: 80
+  variety: 0
+  max_mode: false

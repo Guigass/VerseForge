@@ -35,3 +35,4 @@ Criar uma releitura reconhecivel de "Calice" em rap brasileiro pesado, preservan
 
 - 2026-09-28: conceito fechado, fonte armazenada e primeira releitura composta.
 
+- 2026-09-30: publicada no Suno como "Tira de Mim Esse Cálice" (clip b2fd2cc1-8aea-46db-aaa4-7263df682a17, 3:26, v6, workspace Singles — VerseForge). Verso 1 e refrão conferem com este projeto; não foi criada pasta duplicada. Estilo sincronizado com o texto exibido no Suno. Weirdness 40, style influence 80, variety 0 e max mode desligado mantidos porque é o mesmo projeto.
