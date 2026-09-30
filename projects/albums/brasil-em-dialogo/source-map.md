@@ -4,7 +4,7 @@
 |---:|---|---|---|---|---:|---:|---|---|
 | 1 | Sampa — Caetano Veloso / Um Bom Lugar — Sabotage | Raiz: abertura e portal da memoria | Duas perspectivas sobre Sao Paulo, pertencimento e identidade | Sampa 60% / Um Bom Lugar 40% | 60% | 40% | Contralto melodico / baritono rap / refrao em dueto | Sim |
 | 2 | O Mundo e um Moinho — Cartola / Pensamentos — SNJ | Raiz: heranca afetiva e ensinamentos | Conselho, lembrancas e consciencia em dialogo | Pensamentos 60% / O Mundo e um Moinho 40% | 60% | 40% | Dueto recorrente | Sim |
-| 3 | Canto das Tres Racas — Clara Nunes / Sou Negrao — Rappin' Hood | Raiz: contradicao escondida na origem | Memoria racial transformada em afirmacao e continuidade | Canto das Tres Racas 60% / Sou Negrao 40% | A definir | A definir | Dueto recorrente | Nao |
+| 3 | Canto das Tres Racas — Clara Nunes / Sou Negrao — Rappin' Hood | Raiz: contradicao escondida na origem | Memoria racial transformada em afirmacao e continuidade | Canto das Tres Racas 60% / Sou Negrao 40% | temas | original | Dueto recorrente | Nao — letra original; fontes nao armazenadas verbatim; so temas |
 | 4 | Comportamento Geral — Gonzaguinha / Ate Quando? — Gabriel o Pensador | Ruptura: primeiro choque com o presente | Conformismo enfrentado por um chamado direto a reacao | Ate Quando? 60% / Comportamento Geral 40% | A definir | A definir | Dueto recorrente | Nao |
 | 5 | Construcao — Chico Buarque / O Homem na Estrada — Racionais MC's | Ruptura: mergulho na ferida central | Duas vidas descartadas por estruturas sociais | Construcao 60% / O Homem na Estrada 40% | A definir | A definir | Dueto recorrente | Nao |
 | 6 | Calice — Chico Buarque e Gilberto Gil / Oitavo Anjo — 509-E | Ruptura: reacao, confronto e virada | Aprisionamento, silenciamento e sobrevivencia | Oitavo Anjo 60% / Calice 40% | A definir | A definir | Dueto recorrente | Nao |
@@ -14,3 +14,7 @@
 
 As letras completas de ambas as fontes devem ser fornecidas pelo usuario antes
 da composicao de cada faixa. Nao buscar nem reconstruir letras comerciais.
+
+Faixa 3, em 2026-09-30: excecao autorizada. A letra e original e dialoga com
+os temas das duas fontes. As letras comerciais nao foram buscadas nem
+armazenadas verbatim. A pasta sources/ da faixa guarda apenas essa nota.
