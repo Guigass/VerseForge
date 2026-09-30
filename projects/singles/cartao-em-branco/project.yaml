@@ -5,6 +5,26 @@ status: "ready"
 voice: "male baritone rap with group chant"
 created_at: "2026-09-30T14:43:05.969457+00:00"
 current_version: "v001"
+suno_source:
+  title: "Cartão em Branco"
+  clip_id: "66c0aaf1-d74f-4e68-b3f8-4e52e73a0ff9"
+  url: "https://suno.com/song/66c0aaf1-d74f-4e68-b3f8-4e52e73a0ff9"
+  duration: "2:52"
+  model: "v6"
+  publication: "private"
+  generated_at: "2026-09-30"
+  workspace: "Singles — VerseForge"
+  chosen: true
+suno_variants:
+  - title: "Cartão em Branco"
+    clip_id: "bed0bb6c-630a-46b3-8865-14ed504e8c93"
+    url: "https://suno.com/song/bed0bb6c-630a-46b3-8865-14ed504e8c93"
+    duration: "2:44"
+    model: "v6"
+    publication: "private"
+    generated_at: "2026-09-30"
+    workspace: "Singles — VerseForge"
+    chosen: false
 suno:
   model: "v6"
   weirdness: 40
