@@ -1,0 +1,15 @@
+title: "A Obra e a Estrada"
+slug: "05-a-obra-e-a-estrada"
+kind: "album-track"
+status: "ready"
+voice: "recurring-duet"
+created_at: "2026-09-30T17:05:36.557930+00:00"
+current_version: "v001"
+album: "brasil-em-dialogo"
+track_number: 5
+suno:
+  model: "v6"
+  weirdness: 40
+  style_influence: 80
+  variety: 0
+  max_mode: false

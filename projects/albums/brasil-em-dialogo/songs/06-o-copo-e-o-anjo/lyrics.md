@@ -1,0 +1,93 @@
+[Intro: Male Rap, tight]
+
+Serviram o copo sem nome
+O amargo já estava pronto
+Eu olhei o fundo e vi
+O preço de ficar quieto
+
+[Verse 1: Male Rap, firm]
+
+Não é sede, é contrato
+Quem bebe perde a frase
+O gosto pede obediência
+A mesa finge que é festa
+Eu deixo o copo inteiro
+A boca não assina isso
+Se o silêncio vem em taça
+Eu devolvo a taça cheia
+
+[Verse 2: Male Rap, warning]
+
+Tem um anjo na esquina
+Não veio pra consolar
+Veio mostrar a consequência
+Andando no mesmo compasso
+Ele conta o que foi engolido
+E o que a noite vai cobrar
+Não é asa de promessa
+É aviso antes do tombo
+
+[Pre-Chorus: Female Vocal, tense]
+
+A taça brilha na mão
+Quem oferece sorri baixo
+O anjo não canta vitória
+Ele aponta o que vem depois
+
+[Chorus: Duet, harmony]
+
+Deixo o copo na mesa
+Não bebo o que me fecha
+Se o amargo pede a boca
+A boca escolhe a fala
+O anjo não traz conforto
+Traz a conta que não falha
+
+[Verse 3: Female Vocal]
+
+Eu vi o brinde no palácio
+E o mesmo gosto na viela
+Os dois pediam silêncio
+Com educação diferente
+Quem recusa o gole amargo
+Troca o medo por presença
+O anjo vira testemunha
+Quando a voz não se esconde
+
+[Chorus: Duet, harmony]
+
+Deixo o copo na mesa
+Não bebo o que me fecha
+Se o amargo pede a boca
+A boca escolhe a fala
+O anjo não traz conforto
+Traz a conta que não falha
+
+[Bridge: call and response]
+
+[Male Vocal] Se o copo pede desculpa
+[Female Vocal] Eu não assino o brinde
+[Male Vocal] Se o anjo mostra a conta
+[Female Vocal] Eu pago com a verdade
+[Duet] A virada é esta recusa
+[Duet] Sem sede de vingança
+
+[Chorus: Duet, full band]
+
+Deixo o copo na mesa
+Não bebo o que me fecha
+Se o amargo pede a boca
+A boca escolhe a fala
+O anjo não traz conforto
+Traz a conta que não falha
+
+[Outro: Duet, resolute]
+
+[Male Vocal] O copo ficou na mesa
+[Female Vocal] O anjo seguiu o beco
+[Male Vocal] Não bebi o que me apaga
+[Female Vocal] A consequência agora escuta
+[Duet] Quem recusa o amargo
+[Duet] Abre espaço pra outra voz
+
+[End]

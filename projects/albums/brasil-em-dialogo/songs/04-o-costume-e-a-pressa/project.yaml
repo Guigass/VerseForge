@@ -1,0 +1,15 @@
+title: "O Costume e a Pressa"
+slug: "04-o-costume-e-a-pressa"
+kind: "album-track"
+status: "ready"
+voice: "recurring-duet"
+created_at: "2026-09-30T17:05:36.197344+00:00"
+current_version: "v001"
+album: "brasil-em-dialogo"
+track_number: 4
+suno:
+  model: "v6"
+  weirdness: 40
+  style_influence: 80
+  variety: 0
+  max_mode: false
