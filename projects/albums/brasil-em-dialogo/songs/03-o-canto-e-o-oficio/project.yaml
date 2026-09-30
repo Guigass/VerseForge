@@ -7,6 +7,26 @@ created_at: "2026-09-30T16:49:45.594744+00:00"
 current_version: "v001"
 album: "brasil-em-dialogo"
 track_number: 3
+suno_source:
+  title: "O Canto e o Ofício"
+  clip_id: "767729fc-6910-4692-b0c3-b9c151041601"
+  url: "https://suno.com/song/767729fc-6910-4692-b0c3-b9c151041601"
+  duration: "3:28"
+  model: "v6"
+  publication: "private"
+  generated_at: "2026-09-30"
+  workspace: "Brasil em Diálogo"
+  chosen: false
+suno_variants:
+  - title: "O Canto e o Ofício"
+    clip_id: "2554394c-e1e1-41e0-8ad4-f1bf74fd1716"
+    url: "https://suno.com/song/2554394c-e1e1-41e0-8ad4-f1bf74fd1716"
+    duration: "3:28"
+    model: "v6"
+    publication: "private"
+    generated_at: "2026-09-30"
+    workspace: "Brasil em Diálogo"
+    chosen: false
 suno:
   model: "v6"
   weirdness: 40
