@@ -1,0 +1,15 @@
+title: "Se o Farol Mentir"
+slug: "04-se-o-farol-mentir"
+kind: "album-track"
+status: "ready"
+voice: "male-baritone-rap-lead-with-female-alto-hook"
+created_at: "2026-10-02T14:49:20.545867+00:00"
+current_version: "v001"
+album: "dois-planetas"
+track_number: 4
+suno:
+  model: "v6"
+  weirdness: 44
+  style_influence: 83
+  variety: 0
+  max_mode: false

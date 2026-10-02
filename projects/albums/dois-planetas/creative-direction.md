@@ -45,8 +45,10 @@ vocal em cada faixa.
 
 ## Proximo passo
 
-Testar a v001 de **Quando o Céu Rachar** no Suno, avaliando o peso do boom-bap,
-a clareza do rap e a entrada do chamado feminino no refrão.
+A v001 de **Se o Farol Mentir** esta pronta para o Gui aprovar antes de qualquer
+geracao. Nenhuma faixa do disco foi gerada no Suno. Se a faixa 4 for aprovada,
+o teste seguinte continua sendo o peso do boom-bap, a clareza do rap e a entrada
+do gancho feminino.
 
 ## Log de decisoes
 
@@ -71,3 +73,7 @@ a clareza do rap e a entrada do chamado feminino no refrão.
 - **2026-09-28:** letra-fonte recebida e **Quando o Céu Rachar** composta com
   fidelidade-alvo de 50%, Volibear em primeira pessoa e o "boom" transformado
   em trovão e tambor de guerra.
+- **2026-10-02:** a faixa 4 nao continua a taverna nem a personagem de Dona da
+  Taverna. **Se o Farol Mentir** entrou como original: casal em fuga, boom-bap
+  funky a 96 BPM, dueto baritono e contralto. GTA VI ficou só como clima, sem
+  letra-fonte e sem nomes da obra.
